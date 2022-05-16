@@ -1,0 +1,7 @@
+{
+  "name": "PortfolioCiclo3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
